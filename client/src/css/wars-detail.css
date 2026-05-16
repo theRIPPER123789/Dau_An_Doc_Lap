@@ -1,0 +1,324 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  background-color: #181C14;
+  font-family: 'Merriweather', serif;
+  color: #f5f5f5;
+  line-height: 1.6;
+}
+
+/* Logo  */
+.logo {
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid #8C1007;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.logo:hover {
+    transform: scale(1.08);
+    box-shadow: 0 0 10px #8C1007;
+}
+ul{
+  margin-bottom: 0;
+}
+/* Navigation bar  */
+.navbar {
+    background-color: #181C14;
+    padding: 1rem 0;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+}
+
+.nav-link {
+    color: #fff !important;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin: 0 1rem;
+    position: relative;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover,
+.nav-link.active {
+    color: #8C1007 !important;
+}
+
+.nav-link::after {
+    content: "";
+    position: absolute;
+    width: 0%;
+    height: 2px;
+    bottom: -4px;
+    left: 0;
+    background-color: #8C1007;
+    transition: width 0.3s ease;
+}
+
+.nav-link:hover::after {
+    width: 100%;
+}
+
+.btn {
+    border-radius: 25px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.btn-outline-light:hover {
+    background-color: #fff;
+    color: #181C14;
+}
+
+.btn-warning:hover {
+    background-color: #8C1007   ;
+}
+
+
+/* Hero banner */
+.hero {
+    position: relative;
+    height: 320px;
+    background: url('../img/Chiến\ tranh/Điệu biên phủ.png')
+        center/cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #f7d88c;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.hero .overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+}
+
+.hero h1,
+.hero p {
+    position: relative;
+    z-index: 2;
+}
+
+.hero h1 {
+    font-size: 52px;
+    font-weight: bold;
+    text-shadow: 0 0 10px black;
+}
+
+.hero p {
+    font-size: 20px;
+    margin-top: 10px;
+    opacity: 0.9;
+}
+
+/* =========================
+   WAR DETAIL CONTAINER
+========================= */
+
+.war-detail{
+
+    margin-top:60px;
+    margin-bottom:60px;
+
+    max-width:900px;
+
+    background:#20241d;
+
+    padding:40px;
+
+    border-radius:10px;
+
+    box-shadow:
+    0 0 30px rgba(0,0,0,0.6);
+
+    border:1px solid #2f3528;
+}
+
+/* =========================
+   WAR TITLE
+========================= */
+
+.war-name{
+
+    text-align:center;
+
+    font-size:30px;
+
+    margin-bottom:30px;
+
+    font-weight:700;
+
+    color:#f1f1f1;
+}
+
+/* =========================
+   NAV TABS
+========================= */
+
+.nav-pills{
+
+    gap:10px;
+
+}
+
+.nav-pills .nav-link{
+
+    background:#2c3226;
+
+    color:#ddd;
+
+    border-radius:6px;
+
+    padding:10px 18px;
+
+    transition:0.3s;
+
+}
+
+.nav-pills .nav-link:hover{
+
+    background:#3a4131;
+
+}
+
+.nav-pills .nav-link.active{
+
+    background:#2F3E2C;
+
+    color:white;
+
+    font-weight:600;
+
+}
+
+/* =========================
+   CONTENT BOX
+========================= */
+
+.tab-content{
+
+    background:#151812;
+
+    padding:30px;
+
+    border-radius:8px;
+
+    border:1px solid #2a2f24;
+
+    line-height:1.8;
+
+    font-size:17px;
+}
+
+.tab-content p{
+
+    margin:0;
+}
+
+/* =========================
+   IMPORTANT TEXT
+========================= */
+
+strong{
+
+    color:#ffb703;
+
+}
+
+/* =========================
+   FOOTER
+========================= */
+
+footer{
+
+    background:#0f120d;
+
+    padding:40px 0;
+
+    text-align:center;
+
+    border-top:1px solid #2d3328;
+}
+
+.social-buttons{
+
+    margin-bottom:15px;
+}
+
+.social-buttons .btn{
+
+    color:white;
+
+    font-size:20px;
+
+    margin:0 8px;
+
+    transition:0.3s;
+}
+
+.social-buttons .btn:hover{
+
+    color:#e63946;
+
+}
+
+.copy-right{
+
+    font-size:14px;
+
+    color:#aaa;
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+@media (max-width:768px){
+
+.hero{
+
+    height:220px;
+
+}
+
+.hero h1{
+
+    font-size:28px;
+
+}
+
+.hero p{
+
+    font-size:15px;
+
+}
+
+.war-detail{
+
+    margin:40px 15px;
+
+    padding:25px;
+
+}
+
+.nav-pills{
+
+    flex-wrap:wrap;
+
+    justify-content:center;
+
+}
+
+}
