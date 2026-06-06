@@ -1,0 +1,549 @@
+{
+  "wars": [
+    {
+      "id": "hai_ba_trung",
+      "title": "Khởi Nghĩa Hai Bà Trưng (40 - 43)",
+      "time": "40 - 43",
+      "enemy": "Nhà Đông Hán",
+      "leader": "Hai Bà Trưng",
+      "image": "img/Chiến tranh/khởi nghĩa hai bà trưng.png",
+      "description": "Cuộc khởi nghĩa đầu tiên chống ách đô hộ phương Bắc.",
+      "details": {
+        "background": [
+          "Đầu thế kỷ I, nước ta bị nhà Đông Hán đô hộ.",
+          "Chính quyền đô hộ áp đặt nhiều chính sách bóc lột nặng nề.",
+          "Thái thú Tô Định cai trị tàn bạo.",
+          "Thi Sách – chồng của Trưng Trắc – bị giết."
+        ],
+        "phases": [
+          {
+            "period": "Năm 40d",
+            "title": "Bùng nổ khởi nghĩa",
+            "content": [
+              "Hai Bà Trưng phất cờ khởi nghĩa tại Hát Môn.",
+              "Nghĩa quân nhanh chóng chiếm được nhiều thành trì.",
+              "Phong trào lan rộng khắp Lĩnh Nam."
+            ]
+          },
+          {
+            "period": "40-42",
+            "title": "Thời kỳ giành độc lập",
+            "content": [
+              "Trưng Trắc lên ngôi vua.",
+              "Đóng đô tại Mê Linh.",
+              "Nhiều thủ lĩnh địa phương tham gia chính quyền."
+            ]
+          },
+          {
+            "period": "42-43",
+            "title": "Đông Hán phản công",
+            "content": [
+              "Mã Viện đem quân sang đàn áp.",
+              "Nghĩa quân chiến đấu quyết liệt.",
+              "Cuộc khởi nghĩa thất bại năm 43."
+            ]
+          }
+        ],
+        "result": [
+          "Hai Bà Trưng hy sinh.",
+          "Nhà Đông Hán tái lập quyền cai trị."
+        ],
+        "meaning": [
+          "Khẳng định tinh thần độc lập của dân tộc.",
+          "Trở thành biểu tượng anh hùng của phụ nữ Việt Nam."
+        ],
+        "documents": [
+          "Đại Việt sử ký toàn thư",
+          "Lĩnh Nam chích quái"
+        ]
+      }
+    },
+    {
+      "id": "bach_dang_938",
+      "title": "Chiến Thắng Bạch Đằng Lịch Sử (938)",
+      "time": "938",
+      "enemy": "Nam Hán",
+      "leader": "Ngô Quyền",
+      "image": "img/Chiến tranh/chiến thắng bạch đằng.png",
+      "description": "Ngô Quyền đánh bại quân Nam Hán trên sông Bạch Đằng.",
+      "details": {
+        "background": [
+          "Kiều Công Tiễn phản bội và cầu cứu nhà Nam Hán.",
+          "Ngô Quyền tiêu diệt Kiều Công Tiễn và chuẩn bị chống xâm lược."
+        ],
+        "phases": [
+          {
+            "period": "Chuẩn bị",
+            "title": "Xây dựng trận địa",
+            "content": [
+              "Ngô Quyền cho đóng cọc gỗ dưới lòng sông Bạch Đằng.",
+              "Tận dụng quy luật thủy triều."
+            ]
+          },
+          {
+            "period": "938",
+            "title": "Trận chiến",
+            "content": [
+              "Quân Nam Hán tiến vào cửa sông.",
+              "Khi thủy triều rút thuyền giặc mắc cạn.",
+              "Quân ta phản công tiêu diệt toàn bộ quân địch."
+            ]
+          }
+        ],
+        "result": [
+          "Hoằng Tháo tử trận.",
+          "Quân Nam Hán đại bại."
+        ],
+        "meaning": [
+          "Chấm dứt thời kỳ Bắc thuộc.",
+          "Mở ra kỷ nguyên độc lập lâu dài."
+        ],
+        "documents": [
+          "Đại Việt sử ký toàn thư"
+        ]
+      }
+    },
+    {
+      "id": "chong_tong",
+      "title": "Kháng Chiến Chống Tống (1075 - 1077)",
+      "time": "1075 - 1077",
+      "enemy": "Nhà Tống",
+      "leader": "Lý Thường Kiệt",
+      "image": "img/Chiến tranh/Kháng chiến chống Tống.png",
+      "description": "Nổi tiếng với bài thơ Nam quốc sơn hà.",
+      "details": {
+        "background": [
+          "Sau khi Đinh Tiên Hoàng mất, đất nước rối ren.",
+          "Nhà Tống lợi dụng tình hình đem quân xâm lược."
+        ],
+        "phases": [
+          {
+            "period": "981",
+            "title": "Phản công",
+            "content": [
+              "Lê Hoàn tổ chức kháng chiến.",
+              "Quân Tống bị đánh bại tại nhiều trận."
+            ]
+          }
+        ],
+        "result": [
+          "Quân Tống rút lui."
+        ],
+        "meaning": [
+          "Bảo vệ nền độc lập non trẻ của Đại Cồ Việt."
+        ],
+        "documents": [
+          "Đại Việt sử ký toàn thư"
+        ]
+      }
+    },
+    {
+      "id": "nguyen_mong",
+      "title": "Kháng Chiến Chống Nguyên - Mông (1258 - 1288)",
+      "time": "1258 - 1288",
+      "enemy": "Nguyên - Mông",
+      "leader": "Trần Hưng Đạo",
+      "image": "img/Chiến tranh/kháng chiến chống nguyên mông.png",
+      "description": "Ba lần đánh bại đội quân mạnh nhất thế giới lúc bấy giờ.",
+      "details": {
+        "background": [
+          "Đế quốc Mông Cổ mở rộng lãnh thổ khắp Á - Âu.",
+          "Nhà Nguyên muốn thôn tính Đại Việt."
+        ],
+        "phases": [
+          {
+            "period": "1258",
+            "title": "Kháng chiến lần 1",
+            "content": [
+              "Quân Mông Cổ tiến vào Thăng Long.",
+              "Quân Trần phản công và giành thắng lợi."
+            ]
+          },
+          {
+            "period": "1285",
+            "title": "Kháng chiến lần 2",
+            "content": [
+              "Chiến thuật vườn không nhà trống.",
+              "Chiến thắng Hàm Tử và Chương Dương."
+            ]
+          },
+          {
+            "period": "1288",
+            "title": "Kháng chiến lần 3",
+            "content": [
+              "Trận Bạch Đằng 1288 tiêu diệt thủy quân Nguyên."
+            ]
+          }
+        ],
+        "result": [
+          "Quân Nguyên thất bại hoàn toàn."
+        ],
+        "meaning": [
+          "Bảo vệ độc lập dân tộc.",
+          "Chiến thắng nổi tiếng trong lịch sử quân sự."
+        ],
+        "documents": [
+          "Hịch tướng sĩ"
+        ]
+      }
+    },
+    {
+      "id": "lam_son",
+      "title": "Khởi Nghĩa Lam Sơn (1418 - 1427)",
+      "time": "1418 - 1427",
+      "enemy": "Nhà Minh",
+      "leader": "Lê Lợi",
+      "image": "img/Chiến tranh/Khởi nghĩa Lam Sơn.png",
+      "description": "Kết thúc 20 năm đô hộ của nhà Minh.",
+      "details": {
+        "background": [
+          "Năm 1407 nhà Minh xâm lược Đại Việt.",
+          "Nhân dân bị áp bức bóc lột."
+        ],
+        "phases": [
+          {
+            "period": "1418",
+            "title": "Khởi nghĩa Lam Sơn",
+            "content": [
+              "Lê Lợi dựng cờ khởi nghĩa tại Thanh Hóa."
+            ]
+          },
+          {
+            "period": "1424-1426",
+            "title": "Mở rộng lực lượng",
+            "content": [
+              "Nghĩa quân giành nhiều thắng lợi lớn."
+            ]
+          },
+          {
+            "period": "1427",
+            "title": "Chiến thắng quyết định",
+            "content": [
+              "Quân Minh thua tại Chi Lăng."
+            ]
+          }
+        ],
+        "result": [
+          "Nhà Minh rút quân."
+        ],
+        "meaning": [
+          "Khôi phục độc lập cho Đại Việt."
+        ],
+        "documents": [
+          "Bình Ngô đại cáo"
+        ]
+      }
+    },
+    {
+      "id": "ngoc_hoi_dong_da",
+      "title": "Chiến Thắng Ngọc Hồi - Đống Đa (1789)",
+      "time": "1789",
+      "enemy": "Nhà Thanh",
+      "leader": "Quang Trung",
+      "image": "img/Chiến tranh/Chiến thắng Ngọc Hồi Đống Đa.png",
+      "description": "Đại thắng quân Thanh trong dịp Tết Kỷ Dậu.",
+      "details": {
+        "background": [
+          "Quân Thanh sang giúp Lê Chiêu Thống."
+        ],
+        "phases": [
+          {
+            "period": "1789",
+            "title": "Tổng tiến công",
+            "content": [
+              "Quang Trung tiến quân thần tốc ra Bắc.",
+              "Quân Thanh bị đánh bại."
+            ]
+          }
+        ],
+        "result": [
+          "Quân Thanh rút khỏi Đại Việt."
+        ],
+        "meaning": [
+          "Bảo vệ nền độc lập dân tộc."
+        ],
+        "documents": [
+          "Hoàng Lê nhất thống chí"
+        ]
+      }
+    },
+    {
+      "id": "chong_phap",
+      "title": "Kháng Chiến Chống Pháp (1858 - 1954)",
+      "time": "1858 - 1954",
+      "enemy": "Thực dân Pháp",
+      "leader": "Hồ Chí Minh, Võ Nguyên Giáp",
+      "image": "img/Chiến tranh/Kháng chiến chống Pháp.png",
+      "description": "Kết thúc bằng chiến thắng Điện Biên Phủ.",
+      "details": {
+        "background": [
+          "Pháp nổ súng xâm lược Việt Nam năm 1858."
+        ],
+        "phases": [
+          {
+            "period": "1946",
+            "title": "Toàn quốc kháng chiến",
+            "content": [
+              "Hồ Chí Minh kêu gọi toàn quốc kháng chiến."
+            ]
+          },
+          {
+            "period": "1954",
+            "title": "Điện Biên Phủ",
+            "content": [
+              "Quân ta chiến thắng tại Điện Biên Phủ."
+            ]
+          }
+        ],
+        "result": [
+          "Pháp ký hiệp định Genève."
+        ],
+        "meaning": [
+          "Chấm dứt chế độ thực dân tại Đông Dương."
+        ],
+        "documents": [
+          "Hiệp định Genève 1954"
+        ]
+      }
+    },
+    {
+      "id": "chong_my",
+      "title": "Kháng Chiến Chống Mỹ (1955 - 1975)",
+      "time": "1955 - 1975",
+      "enemy": "Đế quốc Mỹ",
+      "leader": "Hồ Chí Minh, Võ Nguyên Giáp",
+      "image": "img/Chiến tranh/Kháng chiến chống Mỹ.png",
+      "description": "Kết thúc bằng sự kiện 30/4/1975, thống nhất đất nước.",
+      "details": {
+        "background": [
+          "Sau Hiệp định Genève 1954, đất nước bị chia cắt."
+        ],
+        "phases": [
+          {
+            "period": "1960",
+            "title": "Phong trào Đồng Khởi",
+            "content": [
+              "Phong trào nổi dậy tại miền Nam."
+            ]
+          },
+          {
+            "period": "1968",
+            "title": "Tết Mậu Thân",
+            "content": [
+              "Tổng tiến công trên toàn miền Nam."
+            ]
+          },
+          {
+            "period": "1975",
+            "title": "Chiến dịch Hồ Chí Minh",
+            "content": [
+              "Giải phóng Sài Gòn."
+            ]
+          }
+        ],
+        "result": [
+          "Miền Nam được giải phóng."
+        ],
+        "meaning": [
+          "Đất nước Việt Nam thống nhất."
+        ],
+        "documents": [
+          "Hiệp định Paris 1973"
+        ]
+      }
+    },
+    {
+      "id": "yen_the",
+      "title": "Khởi Nghĩa Yên Thế (1884 - 1913)",
+      "time": "1884 - 1913",
+      "enemy": "Thực dân Pháp",
+      "leader": "Hoàng Hoa Thám",
+      "image": "img/Chiến tranh/Khởi Nghĩa Yên Thế.png",
+      "description": "Phong trào đấu tranh vũ trang chống thực dân Pháp kéo dài gần 30 năm ở vùng Yên Thế.",
+      "details": {
+        "background": [
+          "Sau khi Pháp hoàn thành cơ bản việc xâm lược Việt Nam, nhiều phong trào khởi nghĩa nổ ra.",
+          "Vùng Yên Thế (Bắc Giang) có địa hình hiểm trở, thuận lợi cho chiến tranh du kích.",
+          "Nông dân bị bóc lột nặng nề, đứng lên chống Pháp."
+        ],
+        "phases": [
+          {
+            "period": "1884 - 1892",
+            "title": "Hình thành và phát triển",
+            "content": [
+              "Các toán nghĩa quân hoạt động rải rác.",
+              "Hoàng Hoa Thám dần trở thành thủ lĩnh chính."
+            ]
+          },
+          {
+            "period": "1893 - 1908",
+            "title": "Phát triển mạnh",
+            "content": [
+              "Nghĩa quân xây dựng căn cứ vững chắc.",
+              "Pháp nhiều lần tấn công nhưng thất bại.",
+              "Có thời gian hòa hoãn với Pháp."
+            ]
+          },
+          {
+            "period": "1909 - 1913",
+            "title": "Suy yếu và thất bại",
+            "content": [
+              "Pháp tập trung lực lượng đàn áp.",
+              "Hoàng Hoa Thám bị ám sát năm 1913.",
+              "Khởi nghĩa tan rã."
+            ]
+          }
+        ],
+        "result": [
+          "Khởi nghĩa thất bại năm 1913.",
+          "Phong trào nông dân chống Pháp chấm dứt."
+        ],
+        "meaning": [
+          "Thể hiện tinh thần đấu tranh bền bỉ của nông dân Việt Nam.",
+          "Là cuộc khởi nghĩa tiêu biểu cuối thế kỷ XIX."
+        ],
+        "documents": [
+          "Tài liệu lịch sử về Hoàng Hoa Thám",
+          "Đại Nam thực lục"
+        ]
+      }
+    },
+    {
+      "id": "cach_mang_thang_tam",
+      "title": "Cách Mạng Tháng Tám (1945)",
+      "time": "1945",
+      "enemy": "Phát xít Nhật và chính quyền tay sai",
+      "leader": "Hồ Chí Minh",
+      "image": "img/Chiến tranh/cách mạng tháng tám.png",
+      "description": "Cuộc cách mạng giành chính quyền trên toàn quốc, khai sinh nước Việt Nam Dân Chủ Cộng Hòa.",
+      "details": {
+        "background": [
+          "Chiến tranh thế giới thứ hai bước vào giai đoạn kết thúc.",
+          "Nhật đảo chính Pháp (3/1945) làm bộ máy cai trị rối loạn.",
+          "Việt Minh chuẩn bị lực lượng cho tổng khởi nghĩa."
+        ],
+        "phases": [
+          {
+            "period": "Tháng 8/1945",
+            "title": "Tổng khởi nghĩa",
+            "content": [
+              "Nhân dân nổi dậy giành chính quyền tại Hà Nội, Huế, Sài Gòn.",
+              "Phong trào lan rộng ra toàn quốc."
+            ]
+          },
+          {
+            "period": "2/9/1945",
+            "title": "Tuyên ngôn độc lập",
+            "content": [
+              "Hồ Chí Minh đọc Tuyên ngôn độc lập tại Ba Đình.",
+              "Khai sinh nước Việt Nam Dân Chủ Cộng Hòa."
+            ]
+          }
+        ],
+        "result": [
+          "Chính quyền về tay nhân dân.",
+          "Chế độ phong kiến và thực dân bị lật đổ."
+        ],
+        "meaning": [
+          "Mở ra kỷ nguyên độc lập dân tộc.",
+          "Đặt nền móng cho nhà nước Việt Nam hiện đại."
+        ],
+        "documents": [
+          "Tuyên ngôn độc lập 1945",
+          "Lời kêu gọi Tổng khởi nghĩa"
+        ]
+      }
+    },
+    {
+      "id": "bien_gioi_1979",
+      "title": "Chiến Tranh Biên Giới Việt - Trung (1979)",
+      "time": "1979",
+      "enemy": "Trung Quốc",
+      "leader": "Quân đội Nhân dân Việt Nam",
+      "image": "img/Chiến tranh/chiến tranh biên giới việt trung 1979.png",
+      "description": "Cuộc chiến tranh ngắn nhưng ác liệt xảy ra dọc biên giới phía Bắc Việt Nam.",
+      "details": {
+        "background": [
+          "Chiến tranh thế giới thứ hai bước vào giai đoạn kết thúc.",
+          "Nhật đảo chính Pháp (3/1945) làm bộ máy cai trị rối loạn.",
+          "Việt Minh chuẩn bị lực lượng cho tổng khởi nghĩa."
+        ],
+        "phases": [
+          {
+            "period": "Tháng 8/1945",
+            "title": "Tổng khởi nghĩa",
+            "content": [
+              "Nhân dân nổi dậy giành chính quyền tại Hà Nội, Huế, Sài Gòn.",
+              "Phong trào lan rộng ra toàn quốc."
+            ]
+          },
+          {
+            "period": "2/9/1945",
+            "title": "Tuyên ngôn độc lập",
+            "content": [
+              "Hồ Chí Minh đọc Tuyên ngôn độc lập tại Ba Đình.",
+              "Khai sinh nước Việt Nam Dân Chủ Cộng Hòa."
+            ]
+          }
+        ],
+        "result": [
+          "Chính quyền về tay nhân dân.",
+          "Chế độ phong kiến và thực dân bị lật đổ."
+        ],
+        "meaning": [
+          "Mở ra kỷ nguyên độc lập dân tộc.",
+          "Đặt nền móng cho nhà nước Việt Nam hiện đại."
+        ],
+        "documents": [
+          "Tuyên ngôn độc lập 1945",
+          "Lời kêu gọi Tổng khởi nghĩa"
+        ]
+      }
+    },
+    {
+      "id": "quang_tri_1972",
+      "title": "Trận Thành Cổ Quảng Trị (81 Ngày Đêm 1972)",
+      "time": "1972",
+      "enemy": "Mỹ và Việt Nam Cộng Hòa",
+      "leader": "Quân đội Nhân dân Việt Nam",
+      "image": "img/Chiến tranh/Thành cổ quảng trị.png",
+      "description": "Trận chiến kéo dài 81 ngày đêm tại Thành cổ Quảng Trị trong Chiến dịch Xuân - Hè 1972.",
+      "details": {
+        "background": [
+          "Quan hệ Việt Nam - Trung Quốc căng thẳng sau năm 1975.",
+          "Trung Quốc tiến hành tấn công biên giới phía Bắc Việt Nam."
+        ],
+        "phases": [
+          {
+            "period": "2/1979",
+            "title": "Tấn công",
+            "content": [
+              "Quân Trung Quốc đồng loạt tấn công các tỉnh biên giới.",
+              "Chiếm một số thị xã như Lạng Sơn, Cao Bằng."
+            ]
+          },
+          {
+            "period": "3/1979",
+            "title": "Rút quân",
+            "content": [
+              "Quân Trung Quốc tuyên bố rút quân.",
+              "Chiến sự kết thúc sau khoảng 1 tháng."
+            ]
+          }
+        ],
+        "result": [
+          "Biên giới phía Bắc bị tàn phá nặng nề.",
+          "Hai bên đều chịu tổn thất lớn."
+        ],
+        "meaning": [
+          "Khẳng định chủ quyền lãnh thổ Việt Nam.",
+          "Cảnh giác về bảo vệ biên giới quốc gia."
+        ],
+        "documents": [
+          "Tư liệu quân sự 1979",
+          "Hồi ký chiến tranh biên giới"
+        ]
+      }
+    }
+  ]
+}

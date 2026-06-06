@@ -1,0 +1,229 @@
+{
+  "heroes": [
+
+    {
+      "id": "hai_ba_trung",
+      "name": "Hai Bà Trưng",
+      "time": "14 - 43",
+      "role": "Lãnh tụ khởi nghĩa",
+      "image": "img/anh_hung/hai_ba_trung.png",
+      "description": "Hai nữ anh hùng dân tộc lãnh đạo cuộc khởi nghĩa chống nhà Đông Hán.",
+      "details": {
+        "background": [
+          "Sinh ra trong gia đình Lạc tướng ở Mê Linh.",
+          "Chứng kiến sự áp bức của chính quyền Đông Hán.",
+          "Thi Sách – chồng Trưng Trắc – bị giết."
+        ],
+        "career": [
+          "Năm 40: Phất cờ khởi nghĩa tại Hát Môn.",
+          "Giành lại được nhiều thành trì.",
+          "Lên ngôi vua, đóng đô tại Mê Linh."
+        ],
+        "character": [
+          "Dũng cảm, quyết đoán.",
+          "Có tinh thần yêu nước mạnh mẽ.",
+          "Là biểu tượng của phụ nữ Việt Nam."
+        ],
+        "contribution": [
+          "Lãnh đạo cuộc khởi nghĩa lớn đầu tiên chống Bắc thuộc.",
+          "Khơi dậy tinh thần đấu tranh giành độc lập."
+        ],
+        "documents": [
+          "Đại Việt sử ký toàn thư",
+          "Lĩnh Nam chích quái"
+        ]
+      }
+    },
+
+    {
+      "id": "ngo_quyen",
+      "name": "Ngô Quyền",
+      "time": "898 - 944",
+      "role": "Vua, tướng lĩnh",
+      "image": "img/anh_hung/ngo_quyen.png",
+      "description": "Người đánh bại quân Nam Hán trên sông Bạch Đằng năm 938.",
+      "details": {
+        "background": [
+          "Quê ở Đường Lâm.",
+          "Là con rể của Dương Đình Nghệ.",
+          "Trưởng thành trong bối cảnh đất nước bị đô hộ."
+        ],
+        "career": [
+          "Tiêu diệt Kiều Công Tiễn.",
+          "Chỉ huy trận Bạch Đằng 938.",
+          "Lên ngôi vua, xây dựng nhà Ngô."
+        ],
+        "character": [
+          "Mưu lược, sáng tạo.",
+          "Có tài quân sự xuất sắc."
+        ],
+        "contribution": [
+          "Chấm dứt hơn 1000 năm Bắc thuộc.",
+          "Mở ra thời kỳ độc lập lâu dài."
+        ],
+        "documents": [
+          "Đại Việt sử ký toàn thư"
+        ]
+      }
+    },
+
+    {
+      "id": "tran_hung_dao",
+      "name": "Trần Hưng Đạo",
+      "time": "1228 - 1300",
+      "role": "Danh tướng",
+      "image": "img/anh_hung/tran_hung_dao.png",
+      "description": "Vị tướng kiệt xuất lãnh đạo kháng chiến chống Nguyên Mông.",
+      "details": {
+        "background": [
+          "Tên thật là Trần Quốc Tuấn.",
+          "Thuộc hoàng tộc nhà Trần.",
+          "Được giao trọng trách bảo vệ đất nước."
+        ],
+        "career": [
+          "Chỉ huy 3 lần kháng chiến chống Nguyên Mông.",
+          "Chiến thắng Bạch Đằng 1288.",
+          "Viết 'Hịch tướng sĩ'."
+        ],
+        "character": [
+          "Trung thành, tài giỏi.",
+          "Có tầm nhìn chiến lược."
+        ],
+        "contribution": [
+          "Đánh bại đế quốc mạnh nhất thế giới thời bấy giờ.",
+          "Bảo vệ nền độc lập Đại Việt."
+        ],
+        "documents": [
+          "Hịch tướng sĩ",
+          "Đại Việt sử ký toàn thư"
+        ]
+      }
+    },
+
+    {
+      "id": "le_loi",
+      "name": "Lê Lợi",
+      "time": "1385 - 1433",
+      "role": "Vua, lãnh tụ khởi nghĩa",
+      "image": "img/anh_hung/le_loi.png",
+      "description": "Người lãnh đạo khởi nghĩa Lam Sơn đánh đuổi quân Minh.",
+      "details": {
+        "background": [
+          "Sinh tại Thanh Hóa.",
+          "Chứng kiến sự đô hộ tàn bạo của nhà Minh."
+        ],
+        "career": [
+          "Năm 1418: Khởi nghĩa Lam Sơn.",
+          "Đánh bại quân Minh năm 1427.",
+          "Lên ngôi vua, lập nhà Hậu Lê."
+        ],
+        "character": [
+          "Kiên trì, quyết đoán.",
+          "Có tài lãnh đạo."
+        ],
+        "contribution": [
+          "Khôi phục nền độc lập cho Đại Việt."
+        ],
+        "documents": [
+          "Bình Ngô đại cáo"
+        ]
+      }
+    },
+
+    {
+      "id": "quang_trung",
+      "name": "Quang Trung (Nguyễn Huệ)",
+      "time": "1753 - 1792",
+      "role": "Hoàng đế, tướng lĩnh",
+      "image": "img/anh_hung/quang_trung.png",
+      "description": "Người đánh bại quân Thanh trong chiến thắng Ngọc Hồi – Đống Đa.",
+      "details": {
+        "background": [
+          "Sinh tại Bình Định.",
+          "Là một trong ba anh em Tây Sơn."
+        ],
+        "career": [
+          "Chỉ huy chiến thắng Rạch Gầm – Xoài Mút.",
+          "Đánh tan quân Thanh năm 1789.",
+          "Lên ngôi hoàng đế."
+        ],
+        "character": [
+          "Tài năng quân sự xuất sắc.",
+          "Quyết đoán, thần tốc."
+        ],
+        "contribution": [
+          "Bảo vệ độc lập dân tộc.",
+          "Thống nhất đất nước."
+        ],
+        "documents": [
+          "Hoàng Lê nhất thống chí"
+        ]
+      }
+    },
+
+    {
+      "id": "ho_chi_minh",
+      "name": "Hồ Chí Minh",
+      "time": "1890 - 1969",
+      "role": "Chủ tịch nước",
+      "image": "img/anh_hung/ho_chi_minh.png",
+      "description": "Lãnh tụ vĩ đại của dân tộc Việt Nam, người sáng lập nước Việt Nam hiện đại.",
+      "details": {
+        "background": [
+          "Sinh tại Nghệ An.",
+          "Ra đi tìm đường cứu nước năm 1911."
+        ],
+        "career": [
+          "Thành lập Đảng Cộng sản Việt Nam.",
+          "Lãnh đạo Cách mạng Tháng Tám.",
+          "Đọc Tuyên ngôn độc lập năm 1945."
+        ],
+        "character": [
+          "Giản dị, khiêm tốn.",
+          "Yêu nước, thương dân."
+        ],
+        "contribution": [
+          "Khai sinh nước Việt Nam Dân Chủ Cộng Hòa.",
+          "Dẫn dắt cách mạng Việt Nam."
+        ],
+        "documents": [
+          "Tuyên ngôn độc lập 1945",
+          "Di chúc Hồ Chí Minh"
+        ]
+      }
+    },
+
+    {
+      "id": "vo_nguyen_giap",
+      "name": "Võ Nguyên Giáp",
+      "time": "1911 - 2013",
+      "role": "Đại tướng",
+      "image": "img/anh_hung/vo_nguyen_giap.png",
+      "description": "Vị tướng huyền thoại của Quân đội Nhân dân Việt Nam.",
+      "details": {
+        "background": [
+          "Sinh tại Quảng Bình.",
+          "Là học trò xuất sắc của Hồ Chí Minh."
+        ],
+        "career": [
+          "Chỉ huy chiến thắng Điện Biên Phủ 1954.",
+          "Chỉ đạo kháng chiến chống Mỹ.",
+          "Tham gia nhiều chiến dịch lớn."
+        ],
+        "character": [
+          "Thông minh, bản lĩnh.",
+          "Chiến lược gia quân sự xuất sắc."
+        ],
+        "contribution": [
+          "Đánh bại thực dân Pháp và đế quốc Mỹ.",
+          "Góp phần giải phóng dân tộc."
+        ],
+        "documents": [
+          "Hồi ký Võ Nguyên Giáp",
+          "Tài liệu Điện Biên Phủ"
+        ]
+      }
+    }
+
+  ]
+}
